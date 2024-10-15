@@ -139,7 +139,7 @@ ul>li>a{
 /* moblie responsive */
 @media screen and (max-width:576px){
     .nav-container{
-        display: flex;
+        display: block;
     }
     .nav-menu{
         display: block;
@@ -151,16 +151,18 @@ ul>li>a{
     /* heor section */
     .hero-container{
         background-image: none;
-        margin-top: 120px;
+       
     }
     .hero-parent{
         display: block;
     }
+    
+ 
     .hero-container{
-        margin-top: 120px;
+        margin-top: 140px;
     }
     .serve-container{
-        margin-top: 100px;
+        margin-top: 200px;
     }
     .serve-content{
         display: block;
