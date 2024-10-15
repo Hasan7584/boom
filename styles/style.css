@@ -156,7 +156,6 @@ ul>li>a{
     .hero-parent{
         display: block;
     }
-    
  
     .hero-container{
         margin-top: 140px;
@@ -185,6 +184,7 @@ ul>li>a{
     }
     .review-image{
         margin-left: 10px;
+    
     }
     .bottom-container{
         margin-left: 12px;
